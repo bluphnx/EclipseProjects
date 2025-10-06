@@ -1,2 +1,1 @@
-# EclipseProjects
-Base folder for all eclipse projects
+# Java Selenium Cucumber 2 project
